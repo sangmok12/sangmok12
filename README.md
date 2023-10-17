@@ -4,9 +4,9 @@
 ✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)\
 ✔️ &nbsp;코딩테스트로 알고리즘과 구조를 공부하며 꾸준한 커밋을 노력중이며, AWS, Heroku, Netlify 등 배포 공부중입니다 !
 
-### 🛠 &nbsp;Technical Skills
+## 🛠 &nbsp;Technical Skills
 
-## Lv.02
+### Lv.02
 
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openJDK)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=512BD4)&nbsp;
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-## Lv.01
+### Lv.01
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
