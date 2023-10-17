@@ -5,12 +5,12 @@
 ✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
 ### 🛠 &nbsp;Technical Skills
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse)&nbsp;
+![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=java)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=2C2255)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![oracle](https://img.shields.io/badge/-oracle-F80000?style=flat&logo=oracle)&nbsp;
+![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
