@@ -5,9 +5,8 @@
 ✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
 ### 🛠 &nbsp;Technical Skills
 
-!<img src="https://img.shields.io/badge/-Eclipes-05122A?style=for-the-badge&logo=Eclipes&logoColor=black">&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
