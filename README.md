@@ -1,28 +1,55 @@
-## 👋 &nbsp;백엔드 개발자 임상목입니다. ☺️
-✔️ &nbsp;**세상을 이롭게 만드는 서비스**에 관심이 많습니다.\
-✔️ &nbsp;스타트업 환경에 맞는 **빠른 주기 개발**, **애자일 환경**에 익숙합니다.\
-✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
+## 👋 &nbsp;JAVA 백엔드 개발자 준비생 임상목입니다. ☺️
+✔️ &nbsp;1991.08.27\
+✔️ &nbsp;자바기반 풀스택과정 수료 (2023.04 ~ 2023.09)\
+✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)\
+✔️ &nbsp;코딩테스트로 알고리즘과 구조를 공부하며 꾸준한 커밋을 노력중이며, AWS, Heroku, Netlify 등 배포 공부중입니다 !
+
 ### 🛠 &nbsp;Technical Skills
 
-![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=java)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=2C2255)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+## Lv.02
+
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openJDK)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=512BD4)&nbsp;
 ![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
-![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![eGov](https://img.shields.io/badge/-eGovFramework-05122A?style=flat&logo=/e/&logoColor=F16521)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+
+## Lv.01
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![apachetomcat](https://img.shields.io/badge/-ApacheTomcat-05122A?style=flat&logo=apachetomcat)&nbsp;
+![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 <br/>
-### 💻 &nbsp;GitHub Analytics
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
-### 🤝🏻 &nbsp;Links
-<a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
-<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jeongkoo.dev"><img src="https://img.shields.io/badge/-@jeongkoo.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+## 자격증
+* 정보처리산업기사 필기 합격 - 2023.06
+* 정보처리산업기사 실기 발표대기 - 2023.11.15
+* 공인중개사 자격증
+* 1종보통운전면허
+* (실용음악)교원자격증
+
+# 🥇프로젝트 포트폴리오 수상 및 수료(클릭시 원본 사진을 보실 수 있습니다.)
+
+<table>
+ <tr width="900" height="300">
+  <td width="300">
+   
+   ![상장](https://github.com/sangmok12/library/assets/132993309/a81f44a4-4e41-4405-b5cf-a37799f2676c)
+</td>
+  <td width="300">
+   
+   ![수료증2](https://github.com/sangmok12/library/assets/132993309/cb686b21-ad3f-4d1a-bb5c-bd6b49d6ab8e)
+</td>
+  <td width="300">
+   
+   ![수료증1](https://github.com/sangmok12/library/assets/132993309/6cdc9f4d-8964-4e07-83fe-47431b7b935e)
+</td>
+  
+ </tr>
+</table>
+
