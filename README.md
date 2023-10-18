@@ -10,7 +10,7 @@
 
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openJDK)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=512BD4)&nbsp;
-![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
+![oracle](https://img.shields.io/badge/-oracleDB-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
 ![eGov](https://img.shields.io/badge/-eGovFramework-05122A?style=flat&logo=/e/&logoColor=F16521)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -20,10 +20,12 @@
 
 ### Lv.01
 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![apachetomcat](https://img.shields.io/badge/-ApacheTomcat-05122A?style=flat&logo=apachetomcat)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+
 <br/>
 
 ## 자격증
