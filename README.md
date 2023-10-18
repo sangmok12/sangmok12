@@ -1,7 +1,7 @@
 ## 👋 &nbsp;JAVA 백엔드 개발자 준비생 임상목입니다. ☺️
 ✔️ &nbsp;1991.08.27\
 ✔️ &nbsp;자바기반 풀스택과정 수료 (2023.04 ~ 2023.09)\
-✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)\
+✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)  🥇우수상 수상\
 ✔️ &nbsp;코딩테스트로 알고리즘과 구조를 공부하며 꾸준한 커밋을 노력중이며, AWS, Heroku, Netlify 등 배포 공부중입니다 !
 
 ## 🛠 &nbsp;Technical Skills
