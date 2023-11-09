@@ -26,15 +26,16 @@
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 
 ### 현재 공부중
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonAWS&logoColor=#232F3E)&nbsp;\
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonAWS&logoColor=#232F3E)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-AWS 배포를 위해 EC2 RDS 인스턴스를 할당 받았습니다.
-배포 과정중 Oracle RDS 는 유료인것을 확인하고 DB연결에는 실패했습니다.\
-현재 MySQL로 다시 도전중에 있으며 
-AWS,Linux,MySQL 공부를 많이 하고 있습니다 !
+AWS 배포를 위해 EC2 RDS 인스턴스를 할당 받았습니다.\
+배포 과정중 Oracle RDS 는 유료인것을 확인하고 DB연결은 잠시 미뤄졌고,\
+현재 MySQL로 다시 도전중에 있으며\
+AWS,Linux,MySQL 공부를 많이 하고 있습니다 !\
+배포 성공 가자!!!
 
 
 
