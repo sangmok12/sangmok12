@@ -31,7 +31,7 @@
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws&logoColor=F80000)&nbsp;\
 AWS 배포를 위해 EC2 RDS 인스턴스를 할당 받았습니다.
-배포 과정중 Oracle RDS 는 유료인것을 확인하고 DB연결에는 실패했습니다.
+배포 과정중 Oracle RDS 는 유료인것을 확인하고 DB연결에는 실패했습니다.\
 현재 MySQL로 다시 도전중에 있으며 
 AWS,Linux,MySQL 공부를 많이 하고 있습니다 !
 
