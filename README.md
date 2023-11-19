@@ -45,10 +45,15 @@
 * 1종보통운전면허
 * (실용음악)교원자격증
 
-# 🥇프로젝트 포트폴리오 수상 및 수료
+# 🥇자격증, 우수상, 수료증
 
 <table>
  <tr width="900" height="300">
+    <td width="300">
+   
+   ![자격증](https://github.com/sangmok12/sangmok12/assets/132993309/ab77bfb3-9cce-4d78-8a71-2fead7a66dd7)
+
+</td>
   <td width="300">
    
    ![상장](https://github.com/sangmok12/library/assets/132993309/a81f44a4-4e41-4405-b5cf-a37799f2676c)
@@ -57,10 +62,7 @@
    
    ![수료증2](https://github.com/sangmok12/library/assets/132993309/cb686b21-ad3f-4d1a-bb5c-bd6b49d6ab8e)
 </td>
-  <td width="300">
-   
-   ![수료증1](https://github.com/sangmok12/library/assets/132993309/6cdc9f4d-8964-4e07-83fe-47431b7b935e)
-</td>
+
   
  </tr>
 </table>
