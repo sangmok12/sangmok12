@@ -2,11 +2,11 @@
 ✔️ &nbsp;1991.08.27\
 ✔️ &nbsp;자바기반 풀스택과정 수료 (2023.04 ~ 2023.09)\
 ✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)  🥇우수상 수상\
-✔️ &nbsp;코딩테스트로 알고리즘과 구조를 공부하며 꾸준한 커밋을 노력중입니다 !
+✔️ &nbsp;[도서관 프로젝트] AWS 배포성공 배포중!\
 
 ## 🛠 &nbsp;Technical Skills
 
-### Lv.02
+### Lv.02 [국비과정 중 공부]
 
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openJDK)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=512BD4)&nbsp;
@@ -19,31 +19,25 @@
 ![Ibatis](https://img.shields.io/badge/-Ibatis-05122A?style=flat&logo=foodpanda)&nbsp;
 
 
-### Lv.01
-
-
-![apachetomcat](https://img.shields.io/badge/-ApacheTomcat-05122A?style=flat&logo=apachetomcat)&nbsp;
-![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-
-### 현재 공부중
+### Lv.02 [AWS 배포 중 공부]
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonAWS&logoColor=#232F3E)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-AWS 배포를 위해 EC2, RDS 인스턴스를 할당 받았습니다.\
-배포 과정중 Oracle RDS 는 유료인것을 확인하고 DB연결은 잠시 미뤄졌고,\
-현재 MySQL로 다시 도전중에 있으며\
-AWS,Linux,MySQL 공부를 많이 하고 있습니다 !\
-배포 성공 가자!!!
+
+### Lv.01
+
+![apachetomcat](https://img.shields.io/badge/-ApacheTomcat-05122A?style=flat&logo=apachetomcat)&nbsp;
+![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+
 
 
 
 <br/>
 
 ## 자격증
-* 정보처리산업기사 필기 합격 - 2023.06
-* 정보처리산업기사 실기 발표대기 - 2023.11.15
+* 정보처리산업기사 필기 합격 - 2023.11.15
 * 공인중개사 자격증
 * 1종보통운전면허
 * (실용음악)교원자격증
