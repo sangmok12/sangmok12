@@ -19,16 +19,19 @@
 ![Ibatis](https://img.shields.io/badge/-Ibatis-05122A?style=flat&logo=foodpanda)&nbsp;
 
 
+
 ### Lv.02 [AWS 배포 중 공부]
+
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonAWS&logoColor=#232F3E)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-
-
-### Lv.01
-
 ![apachetomcat](https://img.shields.io/badge/-ApacheTomcat-05122A?style=flat&logo=apachetomcat)&nbsp;
+
+
+
+### Lv.01 [Mac 환경에서 Oracle 사용을 위해]
+
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 
 
