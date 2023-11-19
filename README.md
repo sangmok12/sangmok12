@@ -2,7 +2,7 @@
 ✔️ &nbsp;1991.08.27\
 ✔️ &nbsp;자바기반 풀스택과정 수료 (2023.04 ~ 2023.09)\
 ✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)  🥇우수상 수상\
-✔️ &nbsp;[도서관 프로젝트] AWS 배포성공 배포중!\
+✔️ &nbsp;[도서관 프로젝트](http://3.36.128.210:8080) &nbsp; AWS 배포성공 배포중!
 
 ## 🛠 &nbsp;Technical Skills
 
