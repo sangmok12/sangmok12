@@ -3,6 +3,7 @@
 ✔️ &nbsp;JAVA 웹개발 6개월 과정 수료 및 우수상 수상\
 ✔️ &nbsp;[도서관 프로젝트](https://github.com/sangmok12/library/blob/main/README.md)  🥇우수상 수상\
 ✔️ &nbsp;[도서관 프로젝트](http://43.201.107.59:8080) &nbsp; AWS 배포 독학 및 프로젝트 실습 경험\
+✔️ &nbsp;[리액트-스프링-LLM 부동산매물추천](https://github.com/sangmok12/react-landLLM) &nbsp; \
 ✔️ &nbsp;한국방송통신대학교 컴퓨터과학과 졸업학년 (4학년)
 
 ## 🛠 &nbsp;Technical Skills
