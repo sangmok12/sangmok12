@@ -62,6 +62,10 @@ React와 Spring 기반 서비스에 로컬 LLM을 연동한 부동산 매물 추
 
 `SQL` `Open API` `REST API` `CSV·Excel 처리` `Google Apps Script` `Google Sheets`
 
+### AI and Automation
+
+`Codex` `Ollama` `LLM 애플리케이션 연동` `AI 기반 개발 워크플로`
+
 ## 경력
 
 ### 애니파이브 | ICT 2팀 선임연구원
