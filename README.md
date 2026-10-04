@@ -10,6 +10,20 @@
 
 ## 주요 프로젝트
 
+### JobFitAX | AI 기반 채용공고 적합도 분석 서비스
+
+[GitHub 저장소](https://github.com/sangmok12/jobfitAX)
+
+이력서·포트폴리오와 채용공고를 비교해 직무 적합도를 분석하고, 지원 판단에 필요한 근거와 보완점을 제공하는 서비스입니다.
+
+- 잡코리아·사람인 채용공고 통합 검색과 지역·경력·학력·고용형태 필터 구현
+- PDF·DOCX·TXT·MD 문서와 공개 URL에서 사용자 경력·포트폴리오 텍스트 추출
+- Playwright 기반 동적 페이지 수집과 Tesseract OCR을 활용한 이미지 채용공고 분석
+- OpenAI API를 연동해 기술·경력·직무·희망조건별 적합도와 근거 제공
+- 강점·보완점·지원 전략을 정리하고 React 화면에서 분석 결과 확인
+
+`Java 21` `Spring Boot` `React` `OpenAI API` `Playwright` `Tesseract OCR` `Apache Tika`
+
 ### 가마니연구소 | 중고차 데이터 서비스
 
 [서비스 바로가기](https://gamani-webapp-v1-5.vercel.app/)
